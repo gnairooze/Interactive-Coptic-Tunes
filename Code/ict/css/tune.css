@@ -1,0 +1,42 @@
+#marker {
+	background-image:url("../img/image2993.png");
+	height:40px;
+	width:20px;
+	position:absolute;
+	z-index: 4;
+}
+
+#tune-text-container {
+	z-index: 2;
+}
+
+.point {
+	position: absolute;
+	z-index: 3;
+	opacity: 0.3;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+#places {
+	z-index:2;
+}
+
+.abs {
+	position: absolute;
+}
+
+.highlight {
+    background-color: #FFFF00;
+}
+
+.starter {
+	padding-top: 60px;
+}
+
+.full_width {
+	width: 100%;
+}
+
+#tune-json-text {
+	height: 400px;
+}
